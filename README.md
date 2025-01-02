@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @ConnorG25
-- 👀 I’m interested in business, finance, and technology.
-- 🌱 I’m currently learning about startup culture, building positive working environments, building mobile apps and websites.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
